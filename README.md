@@ -1,7 +1,8 @@
  # Ecoleta 
+  ## Projeto desenvolvido durante a NLW1, ensinada pela Rockseat como uma maneira de passar experiência de qualidade e de graça para os Devs do Brasil
  ## Objetivo 
  - Estabelecer uma comunicação entre as pessoas e pontos que possuem e permitem coletam de lixo
- ## Projeto desenvolvido durante a NLW1, ensinada pela Rockseat como uma maneira de passar experiência de qualidade e de graça para os Devs do Brasil
+
  ## Como cadastrar 
  - O cadastro poderá ser feito via Web 
  - Uma organização ou instituição pode cadastrar seu ponto de coleta de lixo, após os seguintes passos.
