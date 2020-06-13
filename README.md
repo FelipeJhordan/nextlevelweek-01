@@ -34,3 +34,19 @@
 - Typescript
 - React
 - React Native
+
+### Imagens Website
+
+#### Tela Inicial
+![webTela1](https://user-images.githubusercontent.com/44248690/84578563-d186d780-ad9c-11ea-9c42-c539627d54d6.png)
+
+#### Tela de cadastro
+![webTela2](https://user-images.githubusercontent.com/44248690/84578580-f24f2d00-ad9c-11ea-8d54-79e1cd18de4c.png)
+![webTela3](https://user-images.githubusercontent.com/44248690/84578589-0a26b100-ad9d-11ea-94fd-841786c31761.png)
+![tela4](https://user-images.githubusercontent.com/44248690/84578594-1ad72700-ad9d-11ea-8129-40c61f0b89c0.png)
+
+#### Imagens App
+![103870774_467261490774905_8299661261028387201_n](https://user-images.githubusercontent.com/44248690/84578629-5e319580-ad9d-11ea-9194-15283f5f2907.png)
+![103961334_588275802123393_4223265530319504484_n](https://user-images.githubusercontent.com/44248690/84578642-7c979100-ad9d-11ea-89c3-148a1838e113.png)
+![104203959_878893652621464_2797280531556601554_n](https://user-images.githubusercontent.com/44248690/84578623-4f4ae300-ad9d-11ea-9480-a437c90db9b2.png)
+
